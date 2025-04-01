@@ -9,7 +9,6 @@
 </p>
 <ul align="left">
   <li>🌍 I am a student at Gharbiya STEM School in Egypt.</li>
-  <li>💻 I am a member of the Gharbiya Fablab team, where I lead the software department.</li>
   <li>🎓 I strive to balance my academic work with my passion for coding.</li>
   <li>🚀 I’m constantly learning and experimenting with new web technologies.</li>
 </ul>
