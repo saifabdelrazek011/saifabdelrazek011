@@ -44,5 +44,5 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifAbdelrazek011&show_icons=true&locale=en&layout=compact" alt="SaifAbdelrazek011" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifAbdelrazek011&show_icons=true&locale=en" alt="SaifAbdelrazek011" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaifAbdelrazek011&show_icons=true&hide=contribs,issues" alt="GitHub Stats" />
 </p>
