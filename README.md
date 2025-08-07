@@ -56,9 +56,6 @@
   <a href="https://discord.com/users/1392590148490891315" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://signal.me/#eu/uvtnL5BtgO1HQvR_FDUOfOWalm_uVjRc9s_k97ejvrdmPiL1E4FIRb-dELC3paC_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/signal/default.svg" width="52" height="40" alt="signal logo"  />
-  </a>
   <a href="https://t.me/saifabdelrazek" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
